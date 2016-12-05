@@ -1,0 +1,40 @@
+﻿@model WebBook.Models.Patient
+
+@{
+    ViewBag.Title = "Record";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <title>Новая запись</title>
+</head>
+<body>
+    <div>
+        <h1>Новая запись</h1>
+        <div class="jumbotron">
+            @using (Html.BeginForm())
+            {
+                @Html.ValidationSummary()
+                <p>Фамилия:</p>
+                <p>@Html.TextBoxFor(patient => patient.Surname)</p>
+                <p>Имя:</p>
+                <p>@Html.TextBoxFor(patient => patient.Name)</p>
+                <p>Отчество:</p>
+                <p>@Html.TextBoxFor(patient => patient.Patronymic)</p>
+                <p>Дата визита:</p>
+                <p>@Html.TextBoxFor(patient => patient.Date_of_visit)</p>
+                <p>Время визита:</p>
+                <p>@Html.TextBoxFor(patient => patient.Time_of_visit)</p>
+                <p>Специальность:</p>
+                <p>@Html.TextBoxFor(patient => patient.Specialty)</p>
+                <input type="submit" value="Добавить" />
+            }
+        </div>
+    </div>
+
+</body>
+</html>

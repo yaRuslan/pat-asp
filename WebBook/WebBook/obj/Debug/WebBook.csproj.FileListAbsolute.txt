@@ -1,0 +1,305 @@
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\ApplicationInsights.config
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\csc.exe
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\vbc.exe
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\WebBook.dll.config
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\WebBook.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\WebBook.pdb
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Mono.Security.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Npgsql.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Npgsql.EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Helpers.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Mvc.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Razor.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Webpages.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Npgsql.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\Npgsql.EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Razor.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Webpages.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Helpers.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\System.Web.Mvc.xml
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\de\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\es\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\fi\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\fr\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\ja\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\obj\Debug\WebBook.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\obj\Debug\WebBook.dll
+C:\Users\Lenovo G50\Desktop\projects\WebBook\WebBook\obj\Debug\WebBook.pdb
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\obj\Debug\WebBook.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\obj\Debug\WebBook.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\obj\Debug\WebBook.pdb
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\ApplicationInsights.config
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\csc.exe
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\vbc.exe
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\WebBook.dll.config
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\WebBook.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\WebBook.pdb
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Mono.Security.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Npgsql.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Npgsql.EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Helpers.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Mvc.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Razor.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Webpages.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Npgsql.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\Npgsql.EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Razor.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Webpages.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Helpers.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\System.Web.Mvc.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\de\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\es\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\fi\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\fr\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\ja\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия (4) — копия\WebBook\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\ApplicationInsights.config
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\csc.exe
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\vbc.exe
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\WebBook.dll.config
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\WebBook.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\WebBook.pdb
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Mono.Security.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Npgsql.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Npgsql.EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Helpers.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Mvc.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Razor.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Webpages.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Npgsql.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\Npgsql.EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Razor.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Webpages.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Helpers.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\System.Web.Mvc.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\de\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\es\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\fi\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\fr\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\ja\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\obj\Debug\WebBook.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\obj\Debug\WebBook.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия\WebBook\obj\Debug\WebBook.pdb
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\ApplicationInsights.config
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\csc.exe
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\vbc.exe
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\WebBook.dll.config
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\WebBook.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\WebBook.pdb
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Mono.Security.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Npgsql.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Npgsql.EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Helpers.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Mvc.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Razor.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Webpages.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Npgsql.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\Npgsql.EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Razor.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Webpages.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Helpers.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\System.Web.Mvc.xml
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\de\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\es\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\fi\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\fr\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\ja\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\obj\Debug\WebBook.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\obj\Debug\WebBook.dll
+C:\Users\Lenovo G50\Desktop\projects\Новая папка (2)\WebBook — копия — копия\WebBook\obj\Debug\WebBook.pdb
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\ApplicationInsights.config
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\csc.exe
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\vbc.exe
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\WebBook.dll.config
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\WebBook.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\WebBook.pdb
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Mono.Security.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Npgsql.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Npgsql.EntityFramework.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Helpers.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Mvc.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Razor.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Webpages.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Npgsql.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\Npgsql.EntityFramework.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Razor.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Webpages.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Helpers.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\System.Web.Mvc.xml
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\de\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\es\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\fi\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\fr\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\ja\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\obj\Debug\WebBook.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\obj\Debug\WebBook.dll
+C:\Users\Lenovo G50\Desktop\WebBook\WebBook\obj\Debug\WebBook.pdb
