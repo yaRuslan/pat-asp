@@ -22,11 +22,11 @@
             {
                 @Html.ValidationSummary()
                 <p>Название задачи:</p>
-                <p>@Html.TextBoxFor(patient => patient.Task_name, new { @class = "form-control" })</p>
+                <p>@Html.TextBoxFor(listRecord => listRecord.Task_name, new { @class = "form-control" })</p>
                 <p>Срок выполнения:</p>
-                <p>@Html.TextBoxFor(patient => patient.Target_date, new { @class = "form-control" })</p>
+                <p>@Html.TextBoxFor(listRecord => listRecord.Target_date, new { @class = "form-control" })</p>
                 <p>Сложность:</p>
-                <p>@Html.TextBoxFor(patient => patient.Complexity, new { @class = "form-control" })</p>
+                <p>@Html.TextBoxFor(listRecord => listRecord.Complexity, new { @class = "form-control" })</p>
                 <input class="btn btn-primary" type="submit" value="Добавить" />
             }
         </div>
