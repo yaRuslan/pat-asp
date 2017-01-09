@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@*<h2>Index</h2>*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Главная страница</title>
+</head>
+<body>
+    <div class="container">
+        <div class="alert alert-info">
+            @Html.ActionLink("Добавить задачу", "Record", "Home")
+        </div>
+        <div>
+            @*<h3>Распродажа книг</h3>*@
+            @*<table class="table table-hover table-striped table-bordered">*@
+            @*<table class="table table-bordered table-hover">
+        <tr>
+            <td><p>Название задачи</p></td>
+            <td><p>Описание задачи</p></td>
+            <td><p>Срок выполнение</p></td>
+            <td><p>Сложность</p></td>
+            <td><p>Статус</p></td>
+        </tr>
+        @foreach (var item in )
+    {
+            <tr>
+                <td><p>@item.Task_name</p></td>
+                <td><p>@item.Task_description</p></td>
+                <td><p>@item.Target_date</p></td>
+                <td><p>@item.Complexity</p></td>
+                <td><p>@item.Task_status</p></td>
+            </tr>
+        }
+    </table>*@
+        </div>
+    </div>
+</body>
+</html>
