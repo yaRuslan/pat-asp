@@ -4,8 +4,6 @@
     ViewBag.Title = "Record";
 }
 
-@*<h2>Record</h2>*@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,22 +13,23 @@
 </head>
 <body>
     <h2 class="text-center">ToDoList</h2>
-    <div>
-        @*<h1>Новая запись</h1>*@
+    <hr />
         <div class="success">
-            @using (Html.BeginForm())
+        @using (Html.BeginForm())
             {
-                @Html.ValidationSummary()
-                <p>Название задачи:</p>
-                <p>@Html.TextBoxFor(listRecord => listRecord.Task_name, new { @class = "form-control" })</p>
-                <p>Срок выполнения:</p>
-                <p>@Html.TextBoxFor(listRecord => listRecord.Target_date, new { @class = "form-control" })</p>
-                <p>Сложность:</p>
-                <p>@Html.TextBoxFor(listRecord => listRecord.Complexity, new { @class = "form-control" })</p>
-                <input class="btn btn-primary" type="submit" value="Добавить" />
+            <p>Название задачи:</p>
+            <p>@Html.TextBoxFor(model => model.Task_name, new { @class = "form-control" })</p>
+            <p>Срок выполнения:</p>
+            <p>@Html.TextBoxFor(model => model.Target_date, new { @class = "form-control" })</p>
+            <p>Сложность:</p>
+            <p>@Html.TextBoxFor(model => model.Complexity, new { @class = "form-control" })</p>
+            <hr />
+            <div>
+                <input class="btn btn-primary" type="submit" value="Добавить" /> |
+                @Html.ActionLink("На главную", "Index")
+           </div>
             }
         </div>
-    </div>
 
 </body>
 </html>

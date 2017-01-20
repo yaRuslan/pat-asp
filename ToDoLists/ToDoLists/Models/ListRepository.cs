@@ -19,18 +19,16 @@ namespace ToDoLists.Models
             listContext.TodoLists.Add(item);
         }
 
-        public void Delete(TodoList item)
+        internal object Where(Func<object, bool> p)
         {
-            if (item != null)
-                listContext.TodoLists.Remove(item);
+            throw new NotImplementedException();
         }
-
-        public IQueryable<TodoList> Get() //-
+        public IQueryable<TodoList> Get()
         {
             return listContext.TodoLists.Where(list => list.List_id > 0);
         }
 
-        public IQueryable<TodoList> Get(Expression<Func<TodoList, bool>> predicate)//-
+        public IQueryable<TodoList> Get(Expression<Func<TodoList, bool>> predicate)
         {
             return listContext.TodoLists.Where(predicate);
         }
@@ -64,6 +62,13 @@ namespace ToDoLists.Models
                 }
             }
             disposed = true;
+        }
+
+        public void Delete(int id)
+        {
+            TodoList todo = listContext.TodoLists.Find(id);
+            if (todo != null)
+                listContext.TodoLists.Remove(todo);
         }
     }
 }

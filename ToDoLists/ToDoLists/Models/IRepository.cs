@@ -12,9 +12,9 @@ namespace ToDoLists.Models
         void Create(T item);
         void Update(T item);
         void Save();
-        void Delete(T item);
+        void Delete(int id);
 
-        IQueryable<T> Get();//-
-        IQueryable<T> Get(Expression<Func<TodoList, bool>> predicate);//-
+        IQueryable<T> Get();
+        IQueryable<T> Get(Expression<Func<TodoList, bool>> predicate);
     }
 }

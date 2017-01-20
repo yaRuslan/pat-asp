@@ -17,8 +17,7 @@ namespace ToDoLists.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            ListContext list = new ListContext(); //-
-            var tdl = list.TodoLists.Where(c => c.List_id < 1000);//-
+            var tdl = unitOfWork.ListRepository.Get();
             return View(tdl);
         }
 
@@ -29,12 +28,36 @@ namespace ToDoLists.Controllers
         [HttpPost]
         public ActionResult Record(TodoList listRecord)
         {
+            if (String.IsNullOrEmpty(listRecord.Task_name))
+                ModelState.AddModelError("Task_name", "Введите задачу");
+            if (String.IsNullOrEmpty(listRecord.Target_date))
+                ModelState.AddModelError("Target_date", "Введите дату");
+            if (String.IsNullOrEmpty(listRecord.Complexity))
+                ModelState.AddModelError("Complexity", "Введите Сложность");
             if (ModelState.IsValid)
             {
                 unitOfWork.ListRepository.Create(listRecord);
                 unitOfWork.Save();
+                return View("Message", listRecord);
             }
-            return View("Message", listRecord);
+            else
+                return View();
+            
+        }
+        public ActionResult Delete()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Delete(int id)
+        {
+                unitOfWork.ListRepository.Delete(id);
+                unitOfWork.Save();
+                return RedirectToAction("Index");
+        }
+        public ActionResult Message()
+        {
+            return View();
         }
     }
 }

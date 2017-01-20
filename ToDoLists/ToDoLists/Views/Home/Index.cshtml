@@ -20,16 +20,16 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(c => item.Task_name)
+            @Html.DisplayFor(modelItem => item.Task_name)
         </td>
         <td>
-            @Html.DisplayFor(c => item.Target_date)
+            @Html.DisplayFor(modelItem => item.Target_date)
         </td>
         <td>
-            @Html.DisplayFor(c => item.Complexity)
+            @Html.DisplayFor(modelItem => item.Complexity)
         </td>
         <td>
-            @Html.ActionLink("Удалить", "ChangeRecord", new { id=item.List_id })
+            @Html.ActionLink("Удалить", "Delete", new { id=item.List_id })
         </td>
     </tr>
 }
