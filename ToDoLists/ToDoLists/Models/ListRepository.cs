@@ -70,5 +70,9 @@ namespace ToDoLists.Models
             if (todo != null)
                 listContext.TodoLists.Remove(todo);
         }
+        public TodoList GetDel(int id)
+        {
+            return listContext.TodoLists.Find(id);
+        }
     }
 }

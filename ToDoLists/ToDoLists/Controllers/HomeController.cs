@@ -44,16 +44,27 @@ namespace ToDoLists.Controllers
                 return View();
             
         }
-        public ActionResult Delete()
-        {
-            return View();
-        }
-        [HttpPost]
+        [HttpGet]
         public ActionResult Delete(int id)
         {
-                unitOfWork.ListRepository.Delete(id);
-                unitOfWork.Save();
-                return RedirectToAction("Index");
+            var del = unitOfWork.ListRepository.GetDel(id);
+            if (del == null)
+            {
+                return HttpNotFound();
+            }
+            return View(del);
+        }
+        [HttpPost, ActionName("Delete")]
+        public ActionResult DeleteConfirmed(int id)
+        {
+            var del = unitOfWork.ListRepository.GetDel(id);
+            if (del == null)
+            {
+                return HttpNotFound();
+            }
+            unitOfWork.ListRepository.Delete(id);
+            unitOfWork.Save();
+            return RedirectToAction("Index");
         }
         public ActionResult Message()
         {

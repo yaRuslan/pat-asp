@@ -598,6 +598,7 @@ dl {
 dt,
 dd {
   line-height: 1.428571429;
+  font-size: 12pt;
 }
 
 dt {
@@ -607,6 +608,7 @@ dt {
 dd {
   margin-left: 0;
 }
+
 
 @media (min-width: 768px) {
   .dl-horizontal dt {

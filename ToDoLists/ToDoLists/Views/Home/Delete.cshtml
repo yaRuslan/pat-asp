@@ -12,9 +12,26 @@
     <title>Вы действительно хотите удалить запись?</title>
 </head>
 <body>
-    <div class="text-center success">
+    <div class="container success">
         <hr />
         <h1>Вы действительно хотите удалить запись?</h1>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt style="font-size: 12pt">Название задачи:</dt>
+            <dd style="font-size: 12pt">
+                @Html.DisplayFor(model => model.Task_name)
+            </dd>
+         
+            <dt style="font-size: 12pt">Срок выполнения:</dt>
+            <dd style="font-size: 12pt">
+                @Html.DisplayFor(model => model.Target_date)
+            </dd>
+            
+            <dt style="font-size: 12pt">Сложность:</dt>
+            <dd style="font-size: 12pt">
+                @Html.DisplayFor(model => model.Complexity)
+            </dd>
+        </dl>
         <hr />
         @using (Html.BeginForm())
         {

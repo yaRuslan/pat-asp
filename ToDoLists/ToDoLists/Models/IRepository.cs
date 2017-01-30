@@ -13,6 +13,7 @@ namespace ToDoLists.Models
         void Update(T item);
         void Save();
         void Delete(int id);
+        T GetDel(int id);
 
         IQueryable<T> Get();
         IQueryable<T> Get(Expression<Func<TodoList, bool>> predicate);
