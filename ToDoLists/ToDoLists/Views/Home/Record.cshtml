@@ -22,7 +22,18 @@
             <p>Срок выполнения:</p>
             <p>@Html.TextBoxFor(model => model.Target_date, new { @class = "form-control" })</p>
             <p>Сложность:</p>
-            <p>@Html.TextBoxFor(model => model.Complexity, new { @class = "form-control" })</p>
+            <p>@Html.DropDownListFor(model => model.Complexity, new SelectList(
+
+              new List<Object> {
+
+                  new { value = "Легкая", text = "Легкая" },
+                  new { value = "Средняя", text = "Средняя" },
+                  new { value = "Сложная", text = "Сложная" },
+              },
+                  "value",
+                  "text"), 
+                  new { @class = "form-control" })
+            </p>
             <hr />
             <div>
                 <input class="btn btn-primary" type="submit" value="Добавить" /> |
