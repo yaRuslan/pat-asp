@@ -23,12 +23,12 @@ namespace ToDoLists.Models
         {
             throw new NotImplementedException();
         }
-        public IQueryable<TodoList> Get()
+        public IQueryable<TodoList> GetAll()
         {
             return listContext.TodoLists.Where(list => list.List_id > 0);
         }
 
-        public IQueryable<TodoList> Get(Expression<Func<TodoList, bool>> predicate)
+        public IQueryable<TodoList> GetAll(Expression<Func<TodoList, bool>> predicate)
         {
             return listContext.TodoLists.Where(predicate);
         }
@@ -38,9 +38,9 @@ namespace ToDoLists.Models
             listContext.SaveChanges();
         }
 
-        public void Update(TodoList item)
+        public void Update(TodoList upList)
         {
-            listContext.Entry(item).State = EntityState.Modified;
+            listContext.Entry(upList).State = EntityState.Modified;
         }
 
         public void Dispose()
@@ -70,7 +70,7 @@ namespace ToDoLists.Models
             if (todo != null)
                 listContext.TodoLists.Remove(todo);
         }
-        public TodoList GetDel(int id)
+        public TodoList Get(int id)
         {
             return listContext.TodoLists.Find(id);
         }

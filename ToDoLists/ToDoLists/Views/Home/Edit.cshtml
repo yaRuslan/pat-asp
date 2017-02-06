@@ -1,0 +1,64 @@
+﻿@model ToDoLists.Models.TodoList
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <title>Новая запись</title>
+</head>
+<body>
+    <h2 class="text-center">ToDoList</h2>
+    <hr />
+    <div class="form-horizontal">
+        @using (Html.BeginForm())
+                {       
+            @Html.HiddenFor(model => model.List_id)
+            <div class="form-group">
+                <label class="control-label col-md-2">
+                    Название задачи:
+                </label>
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Task_name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Task_name, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-md-2">
+                    Срок выполнения:
+                </label>
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Target_date, "{0:yyyy-MM-dd}", new { @type = "date", @class = "form-control", @value = Model.Target_date.ToString("yyyy-MM-dd") })
+                    @Html.ValidationMessageFor(model => model.Target_date, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-md-2">
+                    Сложность:
+                </label>
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.Complexity, new SelectList(
+                        new List<Object> {
+                            new { value = "Легкая", text = "Легкая" },
+                            new { value = "Средняя", text = "Средняя" },
+                            new { value = "Сложная", text = "Сложная" },
+                        },
+                            "value",
+                            "text"),
+                        new { @class = "form-control" })
+                </div>
+            </div>
+                <hr />
+                <div class="col-md-11">
+                    <input class="btn btn-primary" type="submit" value="Добавить" /> |
+                    @Html.ActionLink("На главную", "Index")
+                </div>
+                }
+    </div>
+
+</body>
+</html>

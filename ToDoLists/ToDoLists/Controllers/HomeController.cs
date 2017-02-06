@@ -17,7 +17,7 @@ namespace ToDoLists.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            var tdl = unitOfWork.ListRepository.Get();
+            var tdl = unitOfWork.ListRepository.GetAll();
             return View(tdl);
         }
 
@@ -27,27 +27,20 @@ namespace ToDoLists.Controllers
         }
         [HttpPost]
         public ActionResult Record(TodoList listRecord)
-        {
-            if (String.IsNullOrEmpty(listRecord.Task_name))
-                ModelState.AddModelError("Task_name", "Введите задачу");
-            if (String.IsNullOrEmpty(listRecord.Target_date))
-                ModelState.AddModelError("Target_date", "Введите дату");
-            if (String.IsNullOrEmpty(listRecord.Complexity))
-                ModelState.AddModelError("Complexity", "Введите Сложность");
+        {   
             if (ModelState.IsValid)
             {
                 unitOfWork.ListRepository.Create(listRecord);
                 unitOfWork.Save();
-                return View("Message", listRecord);
+                return View("Message");
             }
-            else
-                return View();
+                return View(listRecord);
             
         }
         [HttpGet]
         public ActionResult Delete(int id)
         {
-            var del = unitOfWork.ListRepository.GetDel(id);
+            var del = unitOfWork.ListRepository.Get(id);
             if (del == null)
             {
                 return HttpNotFound();
@@ -57,7 +50,7 @@ namespace ToDoLists.Controllers
         [HttpPost, ActionName("Delete")]
         public ActionResult DeleteConfirmed(int id)
         {
-            var del = unitOfWork.ListRepository.GetDel(id);
+            var del = unitOfWork.ListRepository.Get(id);
             if (del == null)
             {
                 return HttpNotFound();
@@ -65,6 +58,25 @@ namespace ToDoLists.Controllers
             unitOfWork.ListRepository.Delete(id);
             unitOfWork.Save();
             return RedirectToAction("Index");
+        }
+        public ActionResult Edit(int id)
+        {
+            TodoList up = unitOfWork.ListRepository.Get(id);
+            if (up == null)
+                return HttpNotFound();
+            return View(up);
+        }
+
+        [HttpPost]
+        public ActionResult Edit(TodoList up)
+        {
+            if (ModelState.IsValid)
+            {
+                unitOfWork.ListRepository.Update(up);
+                unitOfWork.Save();
+                return RedirectToAction("Index");
+            }
+            return View(up);
         }
         public ActionResult Message()
         {
